@@ -7,7 +7,7 @@ Hola, soy
 ![Static Badge](https://img.shields.io/badge/Boca-Juniors-%23e1ff00?style=plastic&labelColor=0000ff)
 
 Además de estudiar Ingeniería en Sistemas de Información en la UTN, también:
-- Trabajo como Software Engineer
+- Trabajo como Software Engineer, utilizando principalmente python y TypeScript.
 - Soy intérprete de Teatro Musical
 - Hago muy buenos brownies
 
