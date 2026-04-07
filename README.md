@@ -8,6 +8,6 @@ Hola, soy
 
 Además de estudiar Ingeniería en Sistemas de Información en la UTN, también:
 - Trabajo como Software Engineer, utilizando principalmente python y TypeScript.
-- Soy intérprete de Teatro Musical
+- Soy intérprete de teatro musical desde 2024. Participé en In the Heights, Mamma Mia!, Rent y en octubre Heathers.
 - Hago muy buenos brownies
 
